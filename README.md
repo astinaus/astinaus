@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```
+I will be a front-end developer who has fun developing.
+```
+
 <!--
 **astinaus/astinaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
