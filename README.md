@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### `skills`
-<img src="https://img.shields.io/badge/HTML-orangered?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-orangered?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
 
 
 ---------
