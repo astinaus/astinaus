@@ -1,4 +1,4 @@
-### Hi i'm Astin 😊👋
+### Hi i'm Astin 😊👋😎
 
 ```
 I will be a front-end developer who has fun developing.
